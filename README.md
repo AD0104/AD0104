@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/adrian_r_h3" target="blank"><img src="https://img.shields.io/twitter/follow/adrian_r_h3?logo=twitter&style=for-the-badge" alt="adrian_r_h3" /></a> </p>
 
-- 🔭 I’m currently working on [ICITZ Web Page](https://github.com/AD0104/icitz-webpage)
+- 🔭 I’m currently working on [Web Development]
 
 - 🌱 I’m currently learning **Python with Flask, Java with Spring**
 
