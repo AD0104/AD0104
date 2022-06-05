@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **j.adrian.hr.ramirez@gmail.com**
 
-- 📄 Know about my experiences [I'm developing a web page for an engineer association while working as a freelance web developer.](I'm developing a web page for an engineer association while working as a freelance web developer.)
+- 📄 Know about my experiences [I'm developing a web page for an engineer association while working as a freelance web developer.]
 
 - ⚡ Fun fact **I've never stopped learning since entering university**
 
